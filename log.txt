@@ -1,0 +1,93 @@
+[33mcommit 44c678024187c6a8713f771c1db5b089790a92eb[m
+Merge: 78d1263 ef8e0e4
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 18:02:33 2016 +0300
+
+    Merge branch 'master' of https://github.com/akuplyaev/intensive
+
+[33mcommit 78d126357e12095bd24a063d08ef38fca7d46888[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 17:35:55 2016 +0300
+
+    Изменение имени коммита
+
+[33mcommit ef8e0e45bed54791512aa497aa88e89cba7ed2b5[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 17:35:55 2016 +0300
+
+    Bpvtytybtbvtyb rjvvbnf
+
+[33mcommit 52bc531c86665b8b65ac5eec8365777871169415[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 17:06:40 2016 +0300
+
+    Create stash.txt
+
+[33mcommit 2141cbc07f3354be17846fb4e15e838ef4704563[m
+Merge: e54c961 4efa651
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 17:05:03 2016 +0300
+
+    Merge feature.two
+
+[33mcommit e54c961b698fc068d241c656220792d2d1b117ea[m
+Merge: 8cee082 d870691
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 17:03:42 2016 +0300
+
+    Merge feature.one
+
+[33mcommit 8cee082ab88546e2df5cfe950c16b4dc38dee54b[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 16:42:27 2016 +0300
+
+    Create merge.txt on master
+
+[33mcommit 4efa65162479d2f32d73a069976db26bda1bf599[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 16:36:48 2016 +0300
+
+    Create merge.txt
+
+[33mcommit d870691e9705a72c2ee8f8ac4f19ac560be69db2[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 16:35:23 2016 +0300
+
+    Create merge.txt
+
+[33mcommit 8828131b1baa676dcccd5bc57d82d74d6cf80084[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 16:21:09 2016 +0300
+
+    Добавление branch2.txt в ветку feature.two
+
+[33mcommit a800b3c2aa714165d5bfa628b62354448af6e2db[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 16:19:13 2016 +0300
+
+    Добавление branch1.txt в ветку feature.one
+
+[33mcommit 2e2326053113ef669e67c1e2e884652f33e58f50[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 16:10:47 2016 +0300
+
+    Create release.notes
+
+[33mcommit efaeec98a9c2c7c5bc9a6cbf788a3401d99a6220[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 16:08:43 2016 +0300
+
+    Change .ignore
+
+[33mcommit b7ecff91716cc935eaf09818936e34ebc153ca64[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 16:06:34 2016 +0300
+
+    Create.gitignore
+
+[33mcommit 6fc68db913ad311259baf8a5db0245c8a4f34438[m
+Author: Kuplyaev Aleksey <a.kuplyaev@gmail.com>
+Date:   Thu May 19 16:05:40 2016 +0300
+
+    Инициализирован репозиторий
+    Купляев Алексей
