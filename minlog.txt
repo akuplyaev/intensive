@@ -1,0 +1,46 @@
+[33m6fc68db913ad311259baf8a5db0245c8a4f34438[m Инициализирован репозиторий Купляев Алексей
+[33mb7ecff91716cc935eaf09818936e34ebc153ca64[m Create.gitignore
+[33mefaeec98a9c2c7c5bc9a6cbf788a3401d99a6220[m Change .ignore
+[33m2e2326053113ef669e67c1e2e884652f33e58f50[m Create release.notes
+[33ma800b3c2aa714165d5bfa628b62354448af6e2db[m Добавление branch1.txt в ветку feature.one
+[33m8828131b1baa676dcccd5bc57d82d74d6cf80084[m Добавление branch2.txt в ветку feature.two
+[33md870691e9705a72c2ee8f8ac4f19ac560be69db2[m Create merge.txt
+[33m4efa65162479d2f32d73a069976db26bda1bf599[m Create merge.txt
+[33m8cee082ab88546e2df5cfe950c16b4dc38dee54b[m Create merge.txt on master
+[33me54c961b698fc068d241c656220792d2d1b117ea[m Merge feature.one
+[33m2141cbc07f3354be17846fb4e15e838ef4704563[m Merge feature.two
+[33m52bc531c86665b8b65ac5eec8365777871169415[m Create stash.txt
+[33mef8e0e45bed54791512aa497aa88e89cba7ed2b5[m Bpvtytybtbvtyb rjvvbnf
+[33m78d126357e12095bd24a063d08ef38fca7d46888[m Изменение имени коммита
+[33m44c678024187c6a8713f771c1db5b089790a92eb[m Merge branch 'master' of https://github.com/akuplyaev/intensive
+[33m485be73de3de1ea44041a8cd3ac6dd7cc9039bba[m Запись лога репозитория в файл log.txt
+[33m48e8a384fb159fe590b13f17043af8f34d381d17[m Create norevert.txt
+[33md7f201e434f928af8bec80d1aa431bf23eed9a0c[m Create reset.txt
+[33mdf3731833a80773b08f9c6c7900ccafed4f25b27[m Create reset2.txt
+[33m60672fe035d59ba4a9715a543384ff6c56291178[m create minlog.txt
+* [33m60672fe035d59ba4a9715a543384ff6c56291178[m create minlog.txt
+* [33mdf3731833a80773b08f9c6c7900ccafed4f25b27[m Create reset2.txt
+* [33md7f201e434f928af8bec80d1aa431bf23eed9a0c[m Create reset.txt
+* [33m48e8a384fb159fe590b13f17043af8f34d381d17[m Create norevert.txt
+* [33m485be73de3de1ea44041a8cd3ac6dd7cc9039bba[m Запись лога репозитория в файл log.txt
+*   [33m44c678024187c6a8713f771c1db5b089790a92eb[m Merge branch 'master' of https://github.com/akuplyaev/intensive
+[32m|[m[33m\[m  
+[32m|[m * [33mef8e0e45bed54791512aa497aa88e89cba7ed2b5[m Bpvtytybtbvtyb rjvvbnf
+* [33m|[m [33m78d126357e12095bd24a063d08ef38fca7d46888[m Изменение имени коммита
+[33m|[m[33m/[m  
+* [33m52bc531c86665b8b65ac5eec8365777871169415[m Create stash.txt
+*   [33m2141cbc07f3354be17846fb4e15e838ef4704563[m Merge feature.two
+[34m|[m[35m\[m  
+[34m|[m * [33m4efa65162479d2f32d73a069976db26bda1bf599[m Create merge.txt
+[34m|[m * [33m8828131b1baa676dcccd5bc57d82d74d6cf80084[m Добавление branch2.txt в ветку feature.two
+* [35m|[m   [33me54c961b698fc068d241c656220792d2d1b117ea[m Merge feature.one
+[36m|[m[1;31m\[m [35m\[m  
+[36m|[m * [35m|[m [33md870691e9705a72c2ee8f8ac4f19ac560be69db2[m Create merge.txt
+[36m|[m * [35m|[m [33ma800b3c2aa714165d5bfa628b62354448af6e2db[m Добавление branch1.txt в ветку feature.one
+[36m|[m [35m|[m[35m/[m  
+* [35m|[m [33m8cee082ab88546e2df5cfe950c16b4dc38dee54b[m Create merge.txt on master
+[35m|[m[35m/[m  
+* [33m2e2326053113ef669e67c1e2e884652f33e58f50[m Create release.notes
+* [33mefaeec98a9c2c7c5bc9a6cbf788a3401d99a6220[m Change .ignore
+* [33mb7ecff91716cc935eaf09818936e34ebc153ca64[m Create.gitignore
+* [33m6fc68db913ad311259baf8a5db0245c8a4f34438[m Инициализирован репозиторий Купляев Алексей
